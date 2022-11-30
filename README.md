@@ -193,6 +193,6 @@ namespace Chart_GettingStarted
 ```
 
 ## <a name="output"></a>Output ##
-![Xamarin.iOS SFChart Getting_Started image](<img width="367" alt="Xamarin iOS_SFChart_Sample_PNG" src="https://user-images.githubusercontent.com/102642528/204727095-321e12fb-efc7-4781-8e40-cfe392645ea9.png">)
+![Xamarin.iOS SFChart Getting_Started image]()
 
 For more details please refer this UG [Xamarin.iOS SFChart](https://help.syncfusion.com/xamarin-ios/sfchart/getting-started).
